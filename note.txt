@@ -1,0 +1,1 @@
+This file is used to demonstrate Gethub functionalities and will save notes for every sesion.
